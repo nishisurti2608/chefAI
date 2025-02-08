@@ -1,0 +1,31 @@
+{
+  "name": "chefai",
+  "version": "1.0.0",
+  "description": "small react app which will use AI to create receipe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishisurti2608/chefAI.git"
+  },
+  "author": "Nishi Surti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishisurti2608/chefAI/issues"
+  },
+  "homepage": "https://github.com/nishisurti2608/chefAI#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.0.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.4.0",
+    "tailwindcss": "^4.0.4"
+  }
+}
