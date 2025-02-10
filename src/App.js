@@ -3,7 +3,7 @@ import Main from "./Components/Main";
 
 const App = () => {
   return (
-    <div className="bg-gray-100 min-h-screen ">
+    <div className="bg-[#FAFAF8] min-h-screen ">
       <Header />
       <Main />
     </div>
